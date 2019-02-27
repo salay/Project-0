@@ -154,7 +154,7 @@ setInterval(function() {
     .fadeIn(1000)
     .end()
     .appendTo('#quoteBox');
-},  4000);
+},  3000);
 
 
 
